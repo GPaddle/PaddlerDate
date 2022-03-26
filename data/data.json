@@ -1,0 +1,61 @@
+[
+	{
+		"imageURL": "images/GKeller.jpg",
+		"name": "Guillaume Keller",
+		"birthDate":"1998-09-16",
+		"awards": [
+			"Vice-champion du monde K2 1000m U23"
+		]
+	},
+	{
+		"imageURL": "images/CCarré.jpg",
+		"name": "Cyrille ⬛",
+		"birthDate":"1984-05-11",
+		"awards": [
+			"Champion du monde K2 1000m",
+			"Champion du monde K1 short race",
+			"3e Championnats du monde K2 1000m",
+			"JO Rio 2016 Londres 2012 Pekin 2008"
+		]
+	},
+	{
+		"imageURL": "images/MBeaumont.jpg",
+		"name": "Maxime Beaumont",
+		"birthDate":"1982-04-23",
+		"awards": [
+			"Champion des jeux européens K1 200m 2019",
+			"Vice champion du monde K1 200m 2015",
+			"Vice champion olympique K1 200m 2016",
+			"JO Tokyo 2020 Rio 2016 Londres 2012 Pekin 2008"
+		]
+	},
+	{
+		"imageURL": "images/EHubert.jpg",
+		"name": "Etienne Hubert",
+		"birthDate":"1988-01-27",
+		"awards": [
+			"Champion du monde K4 1000m",
+			"3e Championnats du monde K2 1000m",
+			"JO Tokyo 2020 Rio 2016"
+		]
+	},
+	{
+		"imageURL": "images/FMouget.jpg",
+		"name": "Francis Mouget",
+		"birthDate":"1990-03-28",
+		"awards": [
+			"6e championnats d'Europe K1 500m",
+			"8e championnats d'Europe K1 500m",
+			"4e championnats d'Europe K2 500m"
+		]
+	},
+	{
+		"imageURL": "images/GBurger.jpg",
+		"name": "Guillaume 🍔",
+		"birthDate":"1989-01-25",
+		"awards": [
+			"Vice-champion du monde K4 1000m",
+			"JO Tokyo 2020"
+		]
+	}
+]
